@@ -1,10 +1,8 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shubham Pandey | PiperIQ
+<h2><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Shubham Pandey | PiperIQ</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=16+Year+Old+Student+%F0%9F%93%9A;Chess+Enthusiast+%E2%99%9F%EF%B8%8F;AI+%26+Programming+Explorer+%F0%9F%A4%96;Self-Taught+Developer+%F0%9F%92%BB;Always+Curious+%F0%9F%94%8D)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
 
@@ -29,7 +27,7 @@ me.say_hi()
 ```
 </div>
 
-## 💫 What Defines Me
+<h3> 💫 What Defines Me </h3>
 
 ```yaml
 🎓 Student: Currently in Class 10th, but learning never stops
@@ -42,10 +40,9 @@ me.say_hi()
 ```
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Arsenal
+
+<h3>🛠️ Tech Arsenal</h3>
 
 ### Languages I Speak (with Computers 😄)
 
@@ -67,11 +64,9 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
-## 📊 GitHub Stats
+<h3> 📊 GitHub Stats </h3>
 
 <div align="center">
   
@@ -84,10 +79,9 @@ me.say_hi()
 </div>
 
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
+
+<h3> 🎯 Current Focus</h3>
 
 ```javascript
 const currentGoals = {
@@ -107,8 +101,7 @@ const currentGoals = {
 ```
 
 ---
-
-## 💭 Philosophy
+<h3> 💭 Philosophy</h3>
 
 > *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
 
@@ -116,6 +109,7 @@ const currentGoals = {
 
 <div align="center">
 
+---
 ### ✨ Fun Facts About Me
 
 🌟 Started programming journey with Harvard's CS50  
@@ -125,21 +119,15 @@ const currentGoals = {
 🔧 Love building things from scratch  
 🎯 Still a student in programming AND chess - always learning!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Let's Connect!
+<h3> 📫 Let's Connect!</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-PiperIQ-181717?style=for-the-badge&logo=github)](https://github.com/PiperIQ)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shubham.wit@proton.me)
 
 <img src="https://komarev.com/ghpvc/?username=PiperIQ&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
----
-
 ### 🎵 *"In the middle of difficulty lies opportunity."* - Albert Einstein
 
 **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
