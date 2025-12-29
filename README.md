@@ -130,7 +130,7 @@ const currentGoals = {
 ## 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-PiperIQ-181717?style=for-the-badge&logo=github)](https://github.com/PiperIQ)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.join@proton.me)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shubham.wit@proton.me)
 
 <img src="https://komarev.com/ghpvc/?username=PiperIQ&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
